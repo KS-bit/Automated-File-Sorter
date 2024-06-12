@@ -47,6 +47,7 @@ def automatic_file_sorting(path):
 window = CTk()
 window.geometry("600x350")
 window.title("Automatic Folder Sorter")
+set_appearance_mode("Dark")
 
 folder_location=''
 def ask_folder():

@@ -7,7 +7,6 @@ This project automates file organization within a specified directory, eliminati
 - Supports common file types: CSV files, Image files, Text files, Excel files, PDF files, Video files, Applications, JSON files, PowerPoint presentations, Word documents, and Other files.
 - Handles existing folders: Checks if a folder exists before creating it to avoid redundancy.
 - File existence verification: Ensures files aren't moved multiple times if already in their designated folders.
-- Customizable folder names: You can modify the `new_folder` list in the code to match your preferred folder names.
 - User-friendly GUI: A graphical interface for easier file sorting and configuration.
 
 ## 🚀 Usage
