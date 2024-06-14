@@ -47,6 +47,7 @@ def automatic_file_sorting(path):
 window = CTk()
 window.geometry("600x350")
 window.title("Automatic Folder Sorter")
+#setting theme of GUI to dark
 set_appearance_mode("Dark")
 
 folder_location=''
